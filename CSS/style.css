@@ -1,0 +1,51 @@
+body{
+    background-color:navy;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: silver
+}
+    
+img{
+    height: 240px;
+    width: 290px;
+    border-radius: 15%;
+}
+
+.musica{
+    width: 300px;
+    background-color:navy;
+    padding: 5px;
+    border: solid black 5px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px; /* espaço ao redor de cada música*/
+    display: inline-block; /*para que as músicas fiquem lado a lado*/
+}
+
+audio{
+    width: 100%;
+    margin-top: 10px;
+}
+    
+div{
+    width: 99%;
+    background-color:dodgerblue;
+    border: solid black 4px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.button{
+    text-align: center;
+    border: solid black 2px ;
+    border-radius: 15%;
+}
+button:hover{
+    background-color:darkcyan;
+    border: solid black 2px;
+    border-radius: 50%;
+}
