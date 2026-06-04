@@ -1,29 +1,17 @@
-body{ h1{
+body{
+    background-color:navy;
     text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: silver
 }
- p{
-  font-size: 20px;
-  color: blue;
-  
-
-}
-
-
-
-}
-.musica{
-
-  width: 300px;
-    background-color: #f0f0f0;
-    padding: 10px;
-    border: solid black 1px;
-    border-radius: 8px;
-    text-align: center;
-}
-
- img{
-   width: 200px;
-   height: 150px;
-
+div{
+    width: 99%;
+    background-color:dodgerblue;
+    border: solid black 4px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 
 }

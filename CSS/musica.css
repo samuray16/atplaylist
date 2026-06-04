@@ -1,8 +1,14 @@
 .musica{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-
+    width: 300px;
+    background-color:navy;
+    padding: 5px;
+    border: solid black 5px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px; /* espaço ao redor de cada música*/
+    display: inline-block; /*para que as músicas fiquem lado a lado*/
+}
+audio{
+    width: 100%;
+    margin-top: 10px;
 }
