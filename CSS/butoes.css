@@ -1,0 +1,8 @@
+button{
+    text-align: center;
+
+}
+button:hover{
+    background-color:darkcyan;
+    border-radius: 50%;
+}
