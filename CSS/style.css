@@ -1,17 +1,7 @@
 body{
-    background-color:navy;
+    background-image: url(../imagem/fundo-fone.jpg);
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     color: silver
-}
-div{
-    width: 99%;
-    background-color:dodgerblue;
-    border: solid black 4px;
-    border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-
 }

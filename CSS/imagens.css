@@ -1,5 +1,9 @@
 img{
     height: 240px;
-    width: 290px;
-    border-radius: 15%;
+    width: 250px;
+    border-radius: 100%;
+}
+img:hover{
+    transition: 255s;
+   transform: rotate(14440deg);
 }

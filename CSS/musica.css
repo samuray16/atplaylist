@@ -5,8 +5,8 @@
     border: solid black 5px;
     border-radius: 20px;
     text-align: center;
-    margin: 10px; /* espaço ao redor de cada música*/
-    display: inline-block; /*para que as músicas fiquem lado a lado*/
+    margin: 10px; 
+    display: inline-block; 
 }
 audio{
     width: 100%;
